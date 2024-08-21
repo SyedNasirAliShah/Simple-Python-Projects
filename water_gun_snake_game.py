@@ -33,4 +33,4 @@ if __name__ == "__main__":
             if i == 9:
                 break
         except ValueError:
-            print("Please enter a valid input (0, 1, or 2)")
+            print("Please enter a valid input (0, 1, or 2)") # end
