@@ -49,10 +49,7 @@ while True:
                     newString.append(i[::-1])
             print(f"String is: {" ".join(newString)}")
         
-        
         else:
              break
-    
-    
     except:
         print("Please enter a number 1 or 2") # end
